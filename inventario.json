@@ -1,0 +1,69 @@
+{
+    "inventario": [
+        {
+            "nombre": "Coca-Cola",
+            "categoria": "bebidas",
+            "precio": 1350
+        },
+        {
+            "nombre": "Quilmes",
+            "categoria": "bebidas",
+            "precio": 3500
+        },
+        {
+            "nombre": "Galletitas Arcor",
+            "categoria": "almacen",
+            "precio": 1200
+        },
+        {
+            "nombre": "Yerba",
+            "categoria": "almacen",
+            "precio": 3000
+        },
+        {
+            "nombre": "Papel higienico",
+            "categoria": "limpieza",
+            "precio": 2000
+        },
+        {
+            "nombre": "Arroz",
+            "categoria": "almacen",
+            "precio": 1500
+        },
+        {
+            "nombre": "Pan",
+            "categoria": "almacen",
+            "precio": 1100
+        },
+        {
+            "nombre": "Limpiador de piso",
+            "categoria": "limpieza",
+            "precio": 1700
+        },
+        {
+            "nombre": "Chocolate",
+            "categoria": "almacen",
+            "precio": 2000
+        },
+        {
+            "nombre": "Off",
+            "categoria": "Limpieza",
+            "precio": 3650
+        },
+        {
+            "nombre": "Termo",
+            "categoria": "Bazar",
+            "precio": 12300
+        },
+        {
+            "nombre": "Matecito",
+            "categoria": "Bazar",
+            "precio": 7600
+        },
+        {
+            "nombre": "Cerveza",
+            "categoria": "Bebidas",
+            "precio": 2400
+        }
+    ]
+}
